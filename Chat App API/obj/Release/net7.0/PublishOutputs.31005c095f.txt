@@ -1,0 +1,36 @@
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Chat App API.exe
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Chat App API.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Chat App API.deps.json
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Chat App API.runtimeconfig.json
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Chat App API.pdb
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\AWSSDK.Core.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\AWSSDK.SecurityToken.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\DnsClient.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.JsonPatch.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.OpenApi.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Logging.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Microsoft.IdentityModel.Tokens.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Microsoft.OpenApi.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\MongoDB.Bson.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\MongoDB.Driver.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\MongoDB.Driver.Core.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\MongoDB.Libmongocrypt.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Newtonsoft.Json.Bson.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\SharpCompress.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Snappier.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\System.IdentityModel.Tokens.Jwt.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\ZstdSharp.dll
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\runtimes\linux\native\libmongocrypt.so
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\runtimes\osx\native\libmongocrypt.dylib
+E:\Work\Website\DotNet\Chat App\Chat App API\Chat App API\obj\Release\net7.0\PubTmp\Out\runtimes\win\native\mongocrypt.dll
